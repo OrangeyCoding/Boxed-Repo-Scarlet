@@ -8,8 +8,18 @@
       "name": "MovieBox3",
       "version": "3.1",
       "down": "https://archive.org/download/mbox31/mbox31.ipa",
+      "category": "Apps - Boxed",
+      "description": "Movie streaming service.",
       "bundleID": "com.trendico.moviebox3",
       "appstore": "com.bearnice.tuixiangzi"
     }
+  ],
+  [
+      "name": "8 Ball Pool",
+      "version": "4.8.5",
+      "down": "https://archive.org/download/FortniteMobileDownload/3500CertNov2020/8BallPoolHack.ipa",
+      "category": "Games - Boxed",
+      "bundleID": "com.miniclip.8ballpoolmult",
+      "appstore": "com.miniclip.8ballpoolmult"
   ]
 }
