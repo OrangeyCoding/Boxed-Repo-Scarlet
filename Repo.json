@@ -15,11 +15,13 @@
     }
   ],
   "GamesBoxed": [
+    {
       "name": "8 Ball Pool",
       "version": "4.8.5",
       "down": "https://archive.org/download/FortniteMobileDownload/3500CertNov2020/8BallPoolHack.ipa",
       "category": "Games - Boxed",
       "bundleID": "com.miniclip.8ballpoolmult",
       "appstore": "com.miniclip.8ballpoolmult"
+    }
   ]
 }
