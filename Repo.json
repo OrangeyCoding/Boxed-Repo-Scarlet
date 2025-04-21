@@ -14,22 +14,16 @@
       "appstore": "com.bearnice.tuixiangzi"
     }
   ],
-  "GamesBoxed": [
+  "JailbreakBoxed": [
     {
-      "name": "8 Ball Pool",
-      "version": "4.8.5",
-      "down": "https://archive.org/download/FortniteMobileDownload/3500CertNov2020/8BallPoolHack.ipa",
-      "category": "Games - Boxed",
-      "bundleID": "com.miniclip.8ballpoolmult",
-      "appstore": "com.miniclip.8ballpoolmult"
-    },
-    {
-      "name": "AC Rebellion",
-      "version": "2.11.0",
-      "down": "https://archive.org/download/FortniteMobileDownload/3500CertNov2020/AcRebellionHack.ipa",
-      "category": "Games - Boxed",
-      "bundleID": "com.ubisoft.accovenant29599311848757",
-      "appstore": "com.ubisoft.accovenant"
+      "name": "unc0ver",
+      "version": "5.3.1",
+      "icon": "https://drive.google.com/file/d/1jxeTTwi9tMSaocG5gF4EqUWAwIkNEqaw/view",
+      "down": "https://archive.org/download/FortniteMobileDownload/3500CertNov2020/unc0ver.ipa",
+      "category": "Jailbreaks - Boxed",
+      "description": "unc0ver is a jail​break, which means that you can have the freedom to do whatever you would like to do to your iOS device. Allowing you to change what you want and operate within your purview, unc0ver unlocks the true power of your iDevice.",
+      "bundleID": "science.xnu.undecimus3115840730",
+      
     }
   ]
 }
