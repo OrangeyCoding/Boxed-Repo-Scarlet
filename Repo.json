@@ -12,6 +12,14 @@
       "description": "Movie streaming service.",
       "bundleID": "com.trendico.moviebox3",
       "appstore": "com.bearnice.tuixiangzi"
+    },
+    {
+      "name": "KineMaster",
+      "version": "4.13.3",
+      "down": "https://archive.org/download/FortniteMobileDownload/3500CertNov2020/kinemaster%2B%2B.ipa",
+      "category": "Apps - Boxed",
+      "bundleID": "com.kinemaster.app364694823224757",
+      "appstore": "com.kinemaster.app"
     }
   ],
   "JailbreakBoxed": [
